@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Nexus 9" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c233922-6377-4084-a982-cf22bd93b9a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DrugCalculator" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DrugCalculator" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Kotlin File" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="TristenBranch" />
+                <branch-info repo="$PROJECT_DIR$" source="Tristens" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1aPEncZv641OZTHFCPwN21Vo62s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="0123456789ABCDEF" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-16T14:57:34.564Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Nexus_9_API_29&#10;Nexus_7_API_29" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java/com/example/drugcalculator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../R&amp;D/BLE_Tutorials-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Hinkley Medical LLC\Git\app\src\test\java\com\example\drugcalculator" />
+      <recent name="C:\Hinkley Medical LLC\Git\app\src\main\res\drawable" />
+      <recent name="C:\Hinkley Medical LLC\Git\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.drugcalculator" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.drugcalculator" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.drugcalculator" />
+      <recent name="com.example.drugcalculator.StartScreens" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Hinkley Medical LLC\Git\app\src\main\java\com\example\drugcalculator" />
+      <recent name="C:\Hinkley Medical LLC\Git\app\src\main\res\drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.DrugInfo">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.drugcalculator in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DrugCalculator.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.drugcalculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.drugcalculator" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrugInfo" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="DrugCalculator.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.drugcalculator.Weigh.DrugInfo" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketClient" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+      <module name="DrugCalculator.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.drugcalculator.SocketClient" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="DrugCalculator.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.com.example.drugcalculator in app" />
+        <item itemvalue="Android App.SocketClient" />
+        <item itemvalue="Android App.DrugInfo" />
+        <item itemvalue="Android JUnit.com.example.drugcalculator in app" />
+        <item itemvalue="Android App.SocketClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c233922-6377-4084-a982-cf22bd93b9a1" name="Default Changelist" comment="" />
+      <created>1586628996596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586628996596</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Drug Dosing Page Update and new format">
+      <created>1588804750744</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588804750744</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Format dosing page">
+      <created>1588870911697</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588870911697</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DataBase formatting">
+      <created>1589231380381</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589231380382</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Bluetooth and Service">
+      <created>1590003417477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590003417477</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Functioning Bluetooth Service, Not communication">
+      <created>1590007966193</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590007966193</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FULLY FUNCTIONING BLUETOOTH SERVICE">
+      <created>1590162974014</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590162974014</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Bluetooth and Working on dosing">
+      <created>1591636084937</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591636084937</updated>
+    </task>
+    <task id="LOCAL-00013" summary="simple changes">
+      <created>1591843064819</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591843064819</updated>
+    </task>
+    <task id="LOCAL-00014" summary="simple changes">
+      <created>1591846067551</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591846067551</updated>
+    </task>
+    <task id="LOCAL-00015" summary="If statement around adult weight calculation">
+      <created>1591887563303</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591887563303</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fixed system crash when not connected to bluetooth and try to send a message bug">
+      <created>1591889504802</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591889504802</updated>
+    </task>
+    <task id="LOCAL-00017" summary="SeekBar added, Size of writing increased for nearsighted people">
+      <created>1591991561685</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591991561685</updated>
+    </task>
+    <task id="LOCAL-00018" summary="SeekBar added, Size of writing increased for nearsighted people">
+      <created>1592166240025</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1592166240025</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Changed to demo button">
+      <created>1592328284266</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592328284266</updated>
+    </task>
+    <task id="LOCAL-00020" summary="n/a">
+      <created>1592329086422</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1592329086422</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Bluetooth LE Prototype">
+      <created>1594655455355</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594655455355</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Bluetooth LE Prototype 2.0">
+      <created>1594669719076</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594669719076</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Bluetooth LE Prototype 2.0">
+      <created>1594697848583</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1594697848583</updated>
+    </task>
+    <task id="LOCAL-00024" summary="BLE">
+      <created>1594738405065</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1594738405065</updated>
+    </task>
+    <task id="LOCAL-00025" summary="need to merge">
+      <created>1594742189635</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1594742189635</updated>
+    </task>
+    <task id="LOCAL-00026" summary="BLE Working Connection.">
+      <created>1594752321250</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1594752321250</updated>
+    </task>
+    <task id="LOCAL-00027" summary="BLE With Chararistic, Null pointer error cant find good solution">
+      <created>1594758201878</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1594758201878</updated>
+    </task>
+    <task id="LOCAL-00028" summary="BLE With each Sensor Enabled">
+      <created>1594830802665</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1594830802665</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Working BLE without conitinued communication">
+      <created>1594842066902</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1594842066902</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Working Temp, Press, Battery, DataRate">
+      <created>1594915103485</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1594915103485</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Working Temp, Press, Battery, DataRate and parsed DataRate and Battery Service">
+      <created>1594919341008</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1594919341008</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Troubling Shooting Notification">
+      <created>1594925946534</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1594925946534</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Notification working">
+      <created>1595362056436</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1595362056437</updated>
+    </task>
+    <task id="LOCAL-00034" summary="AutoConneciton = true">
+      <created>1595436983923</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1595436983923</updated>
+    </task>
+    <task id="LOCAL-00035" summary="AutoConneciton = true 2.0">
+      <created>1595441193903</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1595441193903</updated>
+    </task>
+    <task id="LOCAL-00036" summary="AutoConneciton = true 2.0">
+      <created>1596472160672</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596472160672</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Service 1.0">
+      <created>1596830831473</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1596830831473</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Service 1.0">
+      <created>1598485605371</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1598485605371</updated>
+    </task>
+    <task id="LOCAL-00039" summary="BLE">
+      <created>1598544148129</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1598544148129</updated>
+    </task>
+    <task id="LOCAL-00040" summary="data base progression">
+      <created>1598546060911</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1598546060911</updated>
+    </task>
+    <task id="LOCAL-00041" summary="DataOutput Correction">
+      <created>1598975357084</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1598975357085</updated>
+    </task>
+    <task id="LOCAL-00042" summary="DataOutput Correction">
+      <created>1600358633445</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1600358633445</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Two Sensor Conneciton">
+      <created>1600450835122</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1600450835122</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Master Update">
+      <created>1600453324536</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1600453324536</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Pushing new code">
+      <created>1600453495813</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1600453495813</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Pushing new code">
+      <created>1600453630180</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1600453630180</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Push to pull">
+      <created>1600454350942</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1600454350942</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Push to pull">
+      <created>1600456020785</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1600456020785</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Push to pull">
+      <created>1600529936730</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1600529936730</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Push to pull">
+      <created>1600535076713</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1600535076713</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Weight total calculation">
+      <created>1600536667039</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1600536667039</updated>
+    </task>
+    <task id="LOCAL-00052" summary="null  check">
+      <created>1600538047600</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1600538047600</updated>
+    </task>
+    <task id="LOCAL-00053" summary="push to pull">
+      <created>1600538802601</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1600538802601</updated>
+    </task>
+    <task id="LOCAL-00054" summary="tare fixed">
+      <created>1600790714684</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1600790714685</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bluetooth LE Prototype" />
+    <MESSAGE value="Bluetooth LE Prototype 2.0" />
+    <MESSAGE value="need to merge" />
+    <MESSAGE value="BLE Working Connection." />
+    <MESSAGE value="BLE With Chararistic, Null pointer error cant find good solution" />
+    <MESSAGE value="BLE With each Sensor Enabled" />
+    <MESSAGE value="Working BLE without conitinued communication" />
+    <MESSAGE value="Working Temp, Press, Battery, DataRate" />
+    <MESSAGE value="Working Temp, Press, Battery, DataRate and parsed DataRate and Battery Service" />
+    <MESSAGE value="Troubling Shooting Notification" />
+    <MESSAGE value="Notification working" />
+    <MESSAGE value="AutoConneciton = true" />
+    <MESSAGE value="AutoConneciton = true 2.0" />
+    <MESSAGE value="Service 1.0" />
+    <MESSAGE value="BLE" />
+    <MESSAGE value="data base progression" />
+    <MESSAGE value="DataOutput Correction" />
+    <MESSAGE value="Two Sensor Conneciton" />
+    <MESSAGE value="Master Update" />
+    <MESSAGE value="Pushing new code" />
+    <MESSAGE value="Push to pull" />
+    <MESSAGE value="Weight total calculation" />
+    <MESSAGE value="null  check" />
+    <MESSAGE value="push to pull" />
+    <MESSAGE value="tare fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="tare fixed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="382" key="#Notifications" timestamp="1615412605929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="382" key="#Notifications/0.0.1920.1040/1920.-7.1920.1040@0.0.1920.1040" timestamp="1615412605929" />
+    <state x="900" y="331" key="FileChooserDialogImpl" timestamp="1615412868201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="900" y="331" key="FileChooserDialogImpl/0.0.1920.1040/1920.-7.1920.1040@0.0.1920.1040" timestamp="1615412868201" />
+    <state x="826" y="417" key="Github.ShareDialog" timestamp="1615412888071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="417" key="Github.ShareDialog/0.0.1920.1040/1920.-7.1920.1040@0.0.1920.1040" timestamp="1615412888071" />
+    <state x="402" y="246" key="SettingsEditor" timestamp="1615412870541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="402" y="246" key="SettingsEditor/0.0.1920.1040/1920.-7.1920.1040@0.0.1920.1040" timestamp="1615412870541" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615410962040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.-7.1920.1040@0.0.1920.1040" timestamp="1615410962040" />
+  </component>
+</project>
